@@ -1,1 +1,2 @@
-# 2DShooting_Soleil
+## C96にて頒布したシューティングゲームの公開用リポジトリ
+ReleaseからDLしてプレイ可能
